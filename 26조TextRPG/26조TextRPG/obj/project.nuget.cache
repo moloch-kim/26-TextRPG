@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9I/v6WrtZ10=",
+  "dgSpecHash": "FegQ6EHc0d8=",
   "success": true,
-  "projectFilePath": "C:\\Ai\\26-TextRPG\\26조TextRPG\\26조TextRPG\\26조TextRPG.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/yumin/Desktop/C#Project/26-TextRPG/26조TextRPG/26조TextRPG/26조TextRPG.csproj",
+  "expectedPackageFiles": [
+    "/Users/yumin/.nuget/packages/microsoft.netcore.app.ref/6.0.33/microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/yumin/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.33/microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "/Users/yumin/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.33/microsoft.netcore.app.host.osx-arm64.6.0.33.nupkg.sha512"
+  ],
   "logs": []
 }
