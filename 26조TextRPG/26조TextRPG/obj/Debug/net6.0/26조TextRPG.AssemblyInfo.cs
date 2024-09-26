@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("26조TextRPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ac1ad9bf1cea5ebccce3714ab2faf198be0463c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5f958b4c4b47a9f351d2a1e515d6239b5463152")]
 [assembly: System.Reflection.AssemblyProductAttribute("26조TextRPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("26조TextRPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
